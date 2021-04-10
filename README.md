@@ -9,7 +9,7 @@ This project will review the [python developers survey results](https://www.jetb
 ## Goals
 
 1. Make a more accessible version of the [python developers survey results](https://www.jetbrains.com/lp/python-developers-survey-2020/).
-2. Learn about [Accessible visualizations from Highcharts](https://www.highcharts.com/docs/accessibility/accessibility-module).
+2. Learn about [accessible visualizations from Highcharts](https://www.highcharts.com/docs/accessibility/accessibility-module).
 3. Learn about accessible data visualizations. A very tricky accessibility topic.
 
 ## Inspiration
